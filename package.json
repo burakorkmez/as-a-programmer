@@ -1,0 +1,16 @@
+{
+	"name": "as-a-programmer",
+	"version": "1.0.0",
+	"description": "A package that checks if you are a programmer or not",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Burak Orkmez",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "git+"
+	}
+}
